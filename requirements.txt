@@ -1,0 +1,6 @@
+tensorflow
+numpy
+opencv-python
+tifffile
+scipy
+rasterio
