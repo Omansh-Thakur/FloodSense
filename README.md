@@ -150,8 +150,6 @@ FloodSense/
 ├── detect_water_change.py
 ├── diff_inference.py
 │
-├── Screenshots/
-│
 ├── diagrams/           (architecture/pipeline diagrams)
 │   └── architecture.png
 │
